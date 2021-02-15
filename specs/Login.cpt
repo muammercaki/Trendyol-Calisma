@@ -1,0 +1,11 @@
+
+
+# Valid User Login
+* Click to element "fancybox-close"
+* Click to element "account-user"
+* Click to element "login-button"
+* Write value "xareg39037@hrandod.com" to element "login-email"
+* Write value "Test1234" to element "login-password"
+* Click to element "login-submit"
+* Check if element "accountUser" exists
+

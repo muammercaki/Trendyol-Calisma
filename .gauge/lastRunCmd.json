@@ -1,0 +1,8 @@
+[
+	"/Users/muammer/Desktop/nodejs/bin/gauge",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/muammer/IdeaProjects/Trendyol_Calisma/specs/AddBasket.spec"
+]

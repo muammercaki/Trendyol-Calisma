@@ -1,0 +1,158 @@
+[
+  {
+    "key": "fancybox-close",
+    "value": "a[class='fancybox-item fancybox-close']",
+    "type": "css"
+  },
+  {
+    "key": "account-user",
+    "value": "div[class='account-nav-item user-login-container']",
+    "type": "css"
+  },
+  {
+    "key": "login-button",
+    "value": "div[class='login-button']",
+    "type": "css"
+  },
+  {
+    "key": "login-email",
+    "value": "login-email",
+    "type": "id"
+  },
+  {
+    "key": "login-password",
+    "value": "login-password-input",
+    "type": "id"
+  },
+  {
+    "key": "login-submit",
+    "value": "button[type='submit']",
+    "type": "css"
+  },
+  {
+    "key": "woman-category",
+    "value": "div[id='sub-nav-1']",
+    "type": "css"
+  },
+  {
+    "key": "woman-sub-image",
+    "value": "div[id='sub-nav-1'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "man-category",
+    "value": "sub-nav-2",
+    "type": "id"
+  },
+  {
+    "key": "man-sub-image",
+    "value": "div[id='sub-nav-2'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "child-category",
+    "value": "sub-nav-3",
+    "type": "id"
+  },
+  {
+    "key": "child-sub-image",
+    "value": "div[id='sub-nav-3'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "homeLife-category",
+    "value": "sub-nav-12",
+    "type": "id"
+  },
+  {
+    "key": "homeLife-sub-image",
+    "value": "div[id='sub-nav-12'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "supermarket-category",
+    "value": "sub-nav-16",
+    "type": "id"
+  },
+  {
+    "key": "supermarket-sub-image",
+    "value": "div[id='sub-nav-16'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "cosmetic-category",
+    "value": "sub-nav-11",
+    "type": "id"
+  },
+  {
+    "key": "cosmetic-sub-image",
+    "value": "div[id='sub-nav-11'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "shoes-bag-category",
+    "value": "sub-nav-9",
+    "type": "id"
+  },
+  {
+    "key": "shoes-bag-sub-image",
+    "value": "div[id='sub-nav-9'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "clock-accessory-category",
+    "value": "sub-nav-10",
+    "type": "id"
+  },
+  {
+    "key": "clock-accessory-sub-image",
+    "value": "div[id='sub-nav-10'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "electronic-category",
+    "value": "sub-nav-5",
+    "type": "id"
+  },
+  {
+    "key": "electronic-sub-image",
+    "value": "div[id='sub-nav-5'] div[class='normal-column small-collection-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "tab-link",
+    "value": "li[class='tab-link'] a",
+    "type": "css"
+  },
+  {
+    "key": "tab-link-content-image",
+    "value": "div[class='image-container'] img",
+    "type": "css"
+  },
+  {
+    "key": "product-card",
+    "value": "div[class='p-card-chldrn-cntnr'] a",
+    "type": "css"
+  },
+  {
+    "key": "add-basket",
+    "value": "div[class='add-to-bs-wrp'] button[class='pr-in-btn add-to-bs'] div[class='add-to-bs-tx']",
+    "type": "css"
+  },
+  {
+    "key": "product-title",
+    "value": "h1[class='pr-new-br']",
+    "type": "css"
+  },
+  {
+    "key": "accountUser",
+    "value": "//*[contains(text(),\"Hesabım\")]",
+    "type": "xpath"
+  },
+  {
+    "key": "add-basket",
+    "value": "div[class='prc-inf-wrp'] div[class='add-to-bs-tx']",
+    "type": "css"
+  }
+
+]

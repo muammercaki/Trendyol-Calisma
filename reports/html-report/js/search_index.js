@@ -1,0 +1,1 @@
+var index = {"Tags":{"randomImageTabLinkAndImageCheck":["specs/AddBasket.html"],"randomProductAddToBasket":["specs/AddBasket.html"]},"Specs":{"Image Check And Add Product To Basket":["specs/AddBasket.html"]}};

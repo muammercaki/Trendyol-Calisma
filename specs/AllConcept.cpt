@@ -1,0 +1,21 @@
+
+
+# All Login Step
+* Valid User Login
+* Wait "3" seconds
+
+# All Image Check
+* Sub Woman Image Check
+* Sub Man Image Check
+* Sub Child Image Check
+* Sub Home&Life Image Check
+* Sub Supermarket Image Check
+* Sub Cosmetic Image Check
+* Sub Shoes And Bag Image Check
+* Sub Clock And Accessory Image Check
+* Sub Electronic Image Check
+* Wait "4" seconds
+
+# Product Add Basket
+* Random Tab Link And Image Check
+* Random Product Click

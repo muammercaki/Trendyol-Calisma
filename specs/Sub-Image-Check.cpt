@@ -1,0 +1,45 @@
+
+
+# Sub Woman Image Check
+* Click to element "woman-category"
+* Check image "woman-sub-image"
+
+
+# Sub Man Image Check
+* Click to element "man-category"
+* Check image "man-sub-image"
+
+
+# Sub Child Image Check
+* Click to element "child-category"
+* Check image "child-sub-image"
+
+
+# Sub Home&Life Image Check
+* Click to element "homeLife-category"
+* Check image "homeLife-sub-image"
+
+
+# Sub Supermarket Image Check
+* Click to element "supermarket-category"
+* Check image "supermarket-sub-image"
+
+
+# Sub Cosmetic Image Check
+* Click to element "cosmetic-category"
+* Check image "cosmetic-sub-image"
+
+
+# Sub Shoes And Bag Image Check
+* Click to element "shoes-bag-category"
+* Check image "shoes-bag-sub-image"
+
+
+# Sub Clock And Accessory Image Check
+* Click to element "clock-accessory-category"
+* Check image "clock-accessory-sub-image"
+
+
+# Sub Electronic Image Check
+* Click to element "electronic-category"
+* Check image "electronic-sub-image"
